@@ -1,0 +1,19 @@
+Nhập môn AI
+
+Các phương pháp học từ dữ lliệu
+1. Máy học là gì ?
+	truyền thống: data, program -> output
+	máy học: data, output -> program
+
+2
+3
+4
+thế nào là học không giám sát: lưu ý là ogm nhóm dữ liệu không có nhãn
+
+rời rạc là giá trị số nhãn xđ được
+liên tục các giá trị phân bố rãi đều
+
+học có giám sát; có nhãn rời rạc; bài toán phân lớp
+
+có giấm sát: phân lớp, hồi quy
+ko èo

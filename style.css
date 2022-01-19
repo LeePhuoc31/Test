@@ -1,0 +1,22 @@
+table > caption {
+        font-size: 20px;
+        font-weight: bold;
+}
+table.demo {
+        width: 100%;
+        background-color: #ffffff;
+        border-collapse: collapse;
+        border-width: 2px;
+        border-color: #d1bd6b;
+        border-style: solid;
+        color: #000000;
+}
+table.demo td, table.demo th {
+        border-width: 2px;
+        border-color: #d1bd6b;
+        border-style: solid;
+        padding: 3px;
+}
+#thead {
+    background-color: #c6c2a9;
+}
